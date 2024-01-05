@@ -4,8 +4,8 @@ This site briefly explains what services the law firm offers, explains the perfo
 ## Head section
 Has some metadata, afew links and the title Of the website
 ## Body Section
-### Tob-bar
-Has the emailt, phone  social media icons and a button
+## Tob-bar
+Has the email, phone  social media icons and a button
  <div id="backdrop" class="backdrop close-backdrop"></div>
     <!-- Top bar -->
     <div class="top-bar center">
@@ -34,19 +34,19 @@ Has the emailt, phone  social media icons and a button
         </div>
       </div>
     </div>
-### Header Section
+## Header Section
 It contains the logo, Home page, About Us, Video, Partners, Contacts and Services
-### Hero Section
+## Hero Section
 It includes a hero-image, paragraphs and some buttons.
-### Grid and Cards
+## Grid and Cards
 It contains the court performance, document review, Expert Attorney and Case Dismissed grids.
-### About Section
-it contains brief description of the law firm, explaining what services it offers.
-### Highlight Section
+## About Section
+It contains brief description of the law firm, explaining what services it offers.
+## Highlight Section
 Contains the highlights of the Law Firm in terms of achievements and successes.
-### Contact Section
+## Contact Section
 Contains contact information of the Law Firm.
-### Partner Section
+## Partner Section
 Has brief information of the partners and illustration of the law firm in a video.
 <section class="partners center">
       <div class="container">
@@ -67,7 +67,7 @@ Has brief information of the partners and illustration of the law firm in a vide
         </div>
       </div>
     </section>
-### Footer Section
+## Footer Section
 Contains Contact information and appointment schedule information.
 # Assets folder
 This has all the media used in the website such as images, icons and videos.
