@@ -7,7 +7,7 @@ Has some metadata, afew links and the title Of the website
 ## Body Section
 ## Tob-bar
 Has the email, phone  social media icons and a button
-'''
+```
  <div id="backdrop" class="backdrop close-backdrop"></div>
     <!-- Top bar -->
     <div class="top-bar center">
@@ -36,7 +36,7 @@ Has the email, phone  social media icons and a button
         </div>
       </div>
     </div>
-    '''
+```
 ## Header Section
 It contains the logo, Home page, About Us, Video, Partners, Contacts and Services
 
@@ -57,6 +57,7 @@ Contains contact information of the Law Firm.
 
 ## Partner Section
 Has brief information of the partners and illustration of the law firm in a video.
+```
 <section class="partners center">
       <div class="container">
         <h4>Our Partners</h4>
@@ -76,7 +77,7 @@ Has brief information of the partners and illustration of the law firm in a vide
         </div>
       </div>
     </section>
-    
+```    
 ## Footer Section
 Contains Contact information and appointment schedule information.
 
