@@ -94,11 +94,11 @@ This is where Javascript is written
 ## It contains the top-bar, menu bar, hero image
 
 # Challenges I faced
-## I had no knowledge of Figma
-## Had difficulty doing the bottom bar as it had so many attributes and properties
+- I had no knowledge of Figma
+- Had difficulty doing the bottom bar as it had so many attributes and properties
 
 # Solutions
 
-## To figma, I had a friend who tried helping me and teaching me
-## Watched so many tutorials and this helped me navigate ways of finding solutions.
-## The project was really interesting to do and I learnt new things in the process.
+- To figma, I had a friend who tried helping me and teaching me
+- Watched so many tutorials and this helped me navigate ways of finding solutions.
+  
